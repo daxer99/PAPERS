@@ -75,7 +75,7 @@ def analyze_alpha_diversity(file_path):
 
 
 # Procesar todos los archivos CSV en la carpeta
-folder_path = '/media/rodrigo/Data1/pythonProject/PAPERS/Compare_methods_alpha/16s'  # Reemplazar con la ruta real
+folder_path = 'C:/Users/Lenovo/Documents/PAPERS/Compare_methods_alpha/16s'  # Reemplazar con la ruta real
 csv_files = glob.glob(os.path.join(folder_path, '*.csv'))
 
 if not csv_files:
