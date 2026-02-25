@@ -1,0 +1,24 @@
+Sample,Taxa,Organism,Relative Abundance
+control,Plant,Rosa chinensis,100
+honeyA,Plant,Helianthus annuus,40.5
+honeyA,Plant,Eucalyptus grandis,6.5
+honeyA,Plant,other,11
+honeyA,Virus,Apis mellifera filamentous virus,31.5
+honeyA,Bacteria,Apilactobacillus kunkeei,1.7
+honeyA,Bacteria,Bradyrhizobium sp,1.3
+honeyA,Bacteria,Stutzerimonas stutzeri,0.5
+honeyA,Bacteria,Sphingobium yanoikuyae,0.5
+honeyA,Bacteria,Paenibacillus larvae,0.5
+honeyA,Bacteria,other,6
+honeyB,Plant,Helianthus annuus,14.5
+honeyB,Plant,Eucalyptus grandis,1
+honeyB,Plant,other,4.5
+honeyB,Virus,Apis mellifera filamentous virus,17.5
+honeyB,Bacteria,Acinetobacter johnsonii,46
+honeyB,Bacteria,Acinetobacter lwoffii,4.6
+honeyB,Bacteria,Acinetobacter baumannii,3
+honeyB,Bacteria,Apilactobacillus kunkeei,2.5
+honeyB,Bacteria,Bradyrhizobium sp. SK17,0.3
+honeyB,Bacteria,Sphingobium yanoikuyae,0.3
+honeyB,Bacteria,Stutzerimonas stutzeri,0.3
+honeyB,Bacteria,other,5.5
